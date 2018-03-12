@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Context
 {
-    public class Class1
+    public class Context
     {
     }
 }
