@@ -1,0 +1,7 @@
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Administrador.dll.config
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Administrador.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Administrador.pdb
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\obj\Debug\Administrador.csprojResolveAssemblyReference.cache
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\obj\Debug\Administrador.csproj.CoreCompileInputs.cache
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\obj\Debug\Administrador.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\obj\Debug\Administrador.pdb
