@@ -1,0 +1,6 @@
+C:\Users\Diego fernando\Documents\GitHub\BikePark\business\bin\Debug\business.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\business\bin\Debug\business.pdb
+C:\Users\Diego fernando\Documents\GitHub\BikePark\business\obj\Debug\business.csprojResolveAssemblyReference.cache
+C:\Users\Diego fernando\Documents\GitHub\BikePark\business\obj\Debug\business.csproj.CoreCompileInputs.cache
+C:\Users\Diego fernando\Documents\GitHub\BikePark\business\obj\Debug\business.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\business\obj\Debug\business.pdb

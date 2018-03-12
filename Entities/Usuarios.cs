@@ -8,5 +8,6 @@ namespace Entities
 {
     public class Usuarios
     {
+        public decimal usuID { get; set; }
     }
 }
