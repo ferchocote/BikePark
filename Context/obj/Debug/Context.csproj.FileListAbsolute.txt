@@ -1,0 +1,6 @@
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\Context.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\Context.pdb
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\obj\Debug\Context.csprojResolveAssemblyReference.cache
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\obj\Debug\Context.csproj.CoreCompileInputs.cache
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\obj\Debug\Context.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\obj\Debug\Context.pdb
