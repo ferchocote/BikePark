@@ -12,6 +12,11 @@ namespace business
         {
             int response = 0;
 
+            if (entero == 0)
+            {
+                response = 1;
+            }
+
             return response;
         }
     }

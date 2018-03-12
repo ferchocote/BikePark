@@ -4,3 +4,9 @@ C:\Users\Diego fernando\Documents\GitHub\BikePark\Entities\obj\Debug\Entities.cs
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Entities\obj\Debug\Entities.dll
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Entities\obj\Debug\Entities.pdb
+C:\Users\William Alarcon\Documents\GitHub\BikePark\Entities\bin\Debug\Entities.dll
+C:\Users\William Alarcon\Documents\GitHub\BikePark\Entities\bin\Debug\Entities.pdb
+C:\Users\William Alarcon\Documents\GitHub\BikePark\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\William Alarcon\Documents\GitHub\BikePark\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\William Alarcon\Documents\GitHub\BikePark\Entities\obj\Debug\Entities.dll
+C:\Users\William Alarcon\Documents\GitHub\BikePark\Entities\obj\Debug\Entities.pdb

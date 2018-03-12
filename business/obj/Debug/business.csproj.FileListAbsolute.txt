@@ -4,3 +4,9 @@ C:\Users\Diego fernando\Documents\GitHub\BikePark\business\obj\Debug\business.cs
 C:\Users\Diego fernando\Documents\GitHub\BikePark\business\obj\Debug\business.csproj.CoreCompileInputs.cache
 C:\Users\Diego fernando\Documents\GitHub\BikePark\business\obj\Debug\business.dll
 C:\Users\Diego fernando\Documents\GitHub\BikePark\business\obj\Debug\business.pdb
+C:\Users\William Alarcon\Documents\GitHub\BikePark\business\bin\Debug\business.dll
+C:\Users\William Alarcon\Documents\GitHub\BikePark\business\bin\Debug\business.pdb
+C:\Users\William Alarcon\Documents\GitHub\BikePark\business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\William Alarcon\Documents\GitHub\BikePark\business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\William Alarcon\Documents\GitHub\BikePark\business\obj\Debug\business.dll
+C:\Users\William Alarcon\Documents\GitHub\BikePark\business\obj\Debug\business.pdb
