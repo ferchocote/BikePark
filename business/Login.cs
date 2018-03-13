@@ -1,15 +1,16 @@
-﻿using Context;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Context;
 
 namespace business
 {
+
     public class Login
     {
-        Context dbo = new Context();
+        private Context.Context dbo = new Context.Context();
 
         public int ValidarLogin(int entero)
         {
@@ -19,6 +20,8 @@ namespace business
             {
                 response = 1;
             }
+
+            
 
             return response;
         }

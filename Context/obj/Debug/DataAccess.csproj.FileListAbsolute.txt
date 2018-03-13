@@ -1,0 +1,14 @@
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\Context.dll.config
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\Context.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\Context.pdb
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\Entities.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\EntityFramework.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\Entities.pdb
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\Entities.dll.config
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\EntityFramework.xml
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\obj\Debug\Context.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Context\obj\Debug\Context.pdb

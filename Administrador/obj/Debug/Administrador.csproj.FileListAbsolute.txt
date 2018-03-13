@@ -12,7 +12,16 @@ C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Administrado
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Administrador.pdb
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\business.dll
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\business.pdb
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\business.dll.config
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\obj\Debug\Administrador.csprojResolveAssemblyReference.cache
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\obj\Debug\Administrador.csproj.CoreCompileInputs.cache
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\obj\Debug\Administrador.dll
 C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\obj\Debug\Administrador.pdb
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Context.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\EntityFramework.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Entities.dll
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Context.pdb
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Context.dll.config
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\EntityFramework.xml
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Entities.pdb
+C:\Users\Diego fernando\Documents\GitHub\BikePark\Administrador\bin\Entities.dll.config

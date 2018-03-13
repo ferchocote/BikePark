@@ -1,12 +1,11 @@
-﻿
+﻿using System;
+using System.Data.Entity;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using Entities;
 
 namespace Context
 {
-    using System;
-    using System.Data.Entity;
-    using System.ComponentModel.DataAnnotations.Schema;
-    using System.Linq;
-    using Entities;
 
     public partial class Context : DbContext
     {
